@@ -1,1 +1,1 @@
-# front-lab1
+# https://gon4apenko.github.io/front-lab1/
